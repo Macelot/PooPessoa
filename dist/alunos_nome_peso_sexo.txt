@@ -1,0 +1,14 @@
+Micael;85.000;M
+Alex;60.500;M
+Anderson;70.100;M
+Eduardo;48.900;M
+Ezequiel;71.500;M
+Felipe;80.880;M
+Gabriel;85.600;M
+Otávio;71.500;M
+João;71.500;M
+Lara;55.000;F
+Leo Ludwig;60.700;M
+Leo Minuzzo;75.000;M
+Lucas;71.500;M
+Nathan;85.000;M
